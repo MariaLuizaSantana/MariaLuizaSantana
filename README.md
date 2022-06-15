@@ -13,7 +13,7 @@
   <img align="center" alt="Malu-Eslint" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
   <img align="center" alt="Malu-Git" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Malu-Github" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0246a171525e83cbe746d22b017c23b3.gif" align="right" height="150" style="border-radius:50px;" alt="Malu-pic" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0246a171525e83cbe746d22b017c23b3.gif" align="right" height="150" style="border-radius:50px;" alt="Malu-pic" /></a><br /><a href="https://picasion.com/"></a>
 </div>
   
   ##
