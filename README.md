@@ -13,12 +13,12 @@
   <img align="center" alt="Malu-Eslint" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
   <img align="center" alt="Malu-Git" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Malu-Github" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <img align="right" alt="Malu-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/3504d80de2a2b027b802104bb39b2df9.gif">
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0246a171525e83cbe746d22b017c23b3.gif" align="right" height="150" style="border-radius:50px;" alt="Malu-pic" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 </div>
   
   ##
   
   <div> 
   <a href="https://www.linkedin.com/in/maria-luiza-costaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/MariaLuizaSantana/MariaLuizaSantana/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
