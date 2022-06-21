@@ -8,7 +8,10 @@
 <div align="left">
   <a href="https://github.com/MariaLuizaSantana">
    <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MariaLuizaSantana&show_icons=true&locale=pt-br&theme=radical" alt="Malu" /></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariaLuizaSantana&theme=tokyonight" alt="Malu" /></p>
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariaLuizaSantana&theme=tokyonight" alt="Malu"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MariaLuizaSantana&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Malu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
