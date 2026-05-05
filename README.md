@@ -2,7 +2,7 @@
 <br/>
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0246a171525e83cbe746d22b017c23b3.gif" align="center" height="250" style="border-radius:50px;" alt="Malu-pic" /></a><br /><a href="https://picasion.com/"></a>
 - 💻 Front End e Ux desenvolvedora Jr
-- ⏰ 22 anos
+- ⏰ 25 anos
 - ✈️  Natal/R.N.
 -   <a href="https://www.linkedin.com/in/maria-luiza-costaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div align="left">
